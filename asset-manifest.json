@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nidhi-deshpande/static/css/main.66220295.css",
-    "main.js": "/nidhi-deshpande/static/js/main.3c82d1b8.js",
+    "main.js": "/nidhi-deshpande/static/js/main.e428f19e.js",
     "static/js/787.be98483f.chunk.js": "/nidhi-deshpande/static/js/787.be98483f.chunk.js",
     "static/media/redwoods.jpg": "/nidhi-deshpande/static/media/redwoods.812b5a046276de4bf392.jpg",
     "static/media/twinPeaks.jpg": "/nidhi-deshpande/static/media/twinPeaks.3cf10a9f5cb8003d9648.jpg",
@@ -12,11 +12,11 @@
     "static/media/book.jpg": "/nidhi-deshpande/static/media/book.5a98319bf077506e5a91.jpg",
     "index.html": "/nidhi-deshpande/index.html",
     "main.66220295.css.map": "/nidhi-deshpande/static/css/main.66220295.css.map",
-    "main.3c82d1b8.js.map": "/nidhi-deshpande/static/js/main.3c82d1b8.js.map",
+    "main.e428f19e.js.map": "/nidhi-deshpande/static/js/main.e428f19e.js.map",
     "787.be98483f.chunk.js.map": "/nidhi-deshpande/static/js/787.be98483f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66220295.css",
-    "static/js/main.3c82d1b8.js"
+    "static/js/main.e428f19e.js"
   ]
 }
