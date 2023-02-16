@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/nidhi-deshpande/static/css/main.073c9b0a.css",
-    "main.js": "/nidhi-deshpande/static/js/main.a0e2ff35.js",
-    "static/js/787.1ed0c42c.chunk.js": "/nidhi-deshpande/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/nidhi-deshpande/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/nidhi-deshpande/static/css/main.66220295.css",
+    "main.js": "/nidhi-deshpande/static/js/main.c41f91fb.js",
+    "static/js/787.be98483f.chunk.js": "/nidhi-deshpande/static/js/787.be98483f.chunk.js",
+    "static/media/redwoods.jpg": "/nidhi-deshpande/static/media/redwoods.812b5a046276de4bf392.jpg",
+    "static/media/twinPeaks.jpg": "/nidhi-deshpande/static/media/twinPeaks.3cf10a9f5cb8003d9648.jpg",
+    "static/media/Nidhi.jpg": "/nidhi-deshpande/static/media/Nidhi.40986613f0b826da8383.jpg",
+    "static/media/Roboto-Italic.ttf": "/nidhi-deshpande/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
+    "static/media/Roboto-Black.ttf": "/nidhi-deshpande/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Roboto-Bold.ttf": "/nidhi-deshpande/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/book.jpg": "/nidhi-deshpande/static/media/book.5a98319bf077506e5a91.jpg",
     "index.html": "/nidhi-deshpande/index.html",
-    "main.073c9b0a.css.map": "/nidhi-deshpande/static/css/main.073c9b0a.css.map",
-    "main.a0e2ff35.js.map": "/nidhi-deshpande/static/js/main.a0e2ff35.js.map",
-    "787.1ed0c42c.chunk.js.map": "/nidhi-deshpande/static/js/787.1ed0c42c.chunk.js.map"
+    "main.66220295.css.map": "/nidhi-deshpande/static/css/main.66220295.css.map",
+    "main.c41f91fb.js.map": "/nidhi-deshpande/static/js/main.c41f91fb.js.map",
+    "787.be98483f.chunk.js.map": "/nidhi-deshpande/static/js/787.be98483f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a0e2ff35.js"
+    "static/css/main.66220295.css",
+    "static/js/main.c41f91fb.js"
   ]
 }
